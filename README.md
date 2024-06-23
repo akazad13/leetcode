@@ -11,5 +11,6 @@
 8. [1552. Magnetic Force Between Two Balls](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1552.%20Magnetic%20Force%20Between%20Two%20Balls.md)
 9. [1052. Grumpy Bookstore Owner](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1052.%20Grumpy%20Bookstore%20Owner.md)
 10. [1248. Count Number of Nice Subarrays]()
+11. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
 
 ## Grind75 Solution

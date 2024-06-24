@@ -10,8 +10,8 @@
 7. [1482. Minimum Number of Days to Make m Bouquets](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md)
 8. [1552. Magnetic Force Between Two Balls](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1552.%20Magnetic%20Force%20Between%20Two%20Balls.md)
 9. [1052. Grumpy Bookstore Owner](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1052.%20Grumpy%20Bookstore%20Owner.md)
-10. [1248. Count Number of Nice Subarrays]() :soon:
+10. [1248. Count Number of Nice Subarrays](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1248.%20Count%20Number%20of%20Nice%20Subarrays.md) :soon:
 11. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
-12. [995. Minimum Number of K Consecutive Bit Flips]() :soon:
+12. [995. Minimum Number of K Consecutive Bit Flips](https://github.com/akazad13/leetcode/blob/main/daily-challenges/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.md) :soon:
 
 ## Grind75 Solution

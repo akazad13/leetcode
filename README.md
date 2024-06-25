@@ -13,5 +13,6 @@
 10. [1248. Count Number of Nice Subarrays](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1248.%20Count%20Number%20of%20Nice%20Subarrays.md) :soon:
 11. [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
 12. [995. Minimum Number of K Consecutive Bit Flips](https://github.com/akazad13/leetcode/blob/main/daily-challenges/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.md) :soon:
+13. [1038. Binary Search Tree to Greater Sum Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 
 ## Grind75 Solution

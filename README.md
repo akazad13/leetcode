@@ -15,5 +15,6 @@
 12. [995. Minimum Number of K Consecutive Bit Flips](https://github.com/akazad13/leetcode/blob/main/daily-challenges/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.md) :soon:
 13. [1038. Binary Search Tree to Greater Sum Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 14. [1382. Balance a Binary Search Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1382.%20Balance%20a%20Binary%20Search%20Tree.md)
+15. [1791. Find Center of Star Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1791.%20Find%20Center%20of%20Star%20Graph.md)
 
 ## Grind75 Solution

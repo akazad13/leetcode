@@ -16,5 +16,6 @@
 13. [1038. Binary Search Tree to Greater Sum Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 14. [1382. Balance a Binary Search Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1382.%20Balance%20a%20Binary%20Search%20Tree.md)
 15. [1791. Find Center of Star Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1791.%20Find%20Center%20of%20Star%20Graph.md)
+16. [2285. Maximum Total Importance of Roads](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2285.%20Maximum%20Total%20Importance%20of%20Roads.md)
 
 ## Grind75 Solution

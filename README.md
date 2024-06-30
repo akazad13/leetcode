@@ -17,5 +17,7 @@
 14. [1382. Balance a Binary Search Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1382.%20Balance%20a%20Binary%20Search%20Tree.md)
 15. [1791. Find Center of Star Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1791.%20Find%20Center%20of%20Star%20Graph.md)
 16. [2285. Maximum Total Importance of Roads](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2285.%20Maximum%20Total%20Importance%20of%20Roads.md)
+17. [2192. All Ancestors of a Node in a Directed Acyclic Graph]() :soon:
+18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable]() :soon:
 
 ## Grind75 Solution

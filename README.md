@@ -19,7 +19,7 @@
 16. [2285. Maximum Total Importance of Roads](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2285.%20Maximum%20Total%20Importance%20of%20Roads.md)
 17. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md) :soon:
 18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) :soon:
-19. [1550. Three Consecutive Odds]() :soon:
-20. [350. Intersection of Two Arrays II]() :soon:
+19. [1550. Three Consecutive Odds](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1550.%20Three%20Consecutive%20Odds.md) :soon:
+20. [350. Intersection of Two Arrays II](https://github.com/akazad13/leetcode/blob/main/daily-challenges/350.%20Intersection%20of%20Two%20Arrays%20II.md) :soon:
 
 ## Grind75 Solution

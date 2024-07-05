@@ -21,5 +21,8 @@
 18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) :soon:
 19. [1550. Three Consecutive Odds](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1550.%20Three%20Consecutive%20Odds.md) :soon:
 20. [350. Intersection of Two Arrays II](https://github.com/akazad13/leetcode/blob/main/daily-challenges/350.%20Intersection%20of%20Two%20Arrays%20II.md) :soon:
+21. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves]() :soon:
+22. [2181. Merge Nodes in Between Zeros]() :soon:
+23. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points]() :soon:
 
 ## Grind75 Solution

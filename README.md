@@ -24,5 +24,8 @@
 21. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md) :soon:
 22. [2181. Merge Nodes in Between Zeros](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md) :soon:
 23. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md) :soon:
+24. [2582. Pass the Pillow](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2582.%20Pass%20the%20Pillow.md) :soon:
+25. [1518. Water Bottles](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1518.%20Water%20Bottles.md) :soon:
+26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md) :soon:
 
 ## Grind75 Solution

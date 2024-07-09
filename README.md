@@ -27,5 +27,6 @@
 24. [2582. Pass the Pillow](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2582.%20Pass%20the%20Pillow.md) :soon:
 25. [1518. Water Bottles](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1518.%20Water%20Bottles.md) :soon:
 26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md) :soon:
+27. [1701. Average Waiting Time]() :soon:
 
 ## Grind75 Solution

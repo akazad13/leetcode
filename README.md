@@ -27,7 +27,7 @@
 24. [2582. Pass the Pillow](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2582.%20Pass%20the%20Pillow.md) :soon:
 25. [1518. Water Bottles](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1518.%20Water%20Bottles.md) :soon:
 26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md) :soon:
-27. [1701. Average Waiting Time](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1701.%20Average%20Waiting%20Time.md) :soon:
-28. [1598. Crawler Log Folder](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1598.%20Crawler%20Log%20Folder.md) :soon:
+27. [1701. Average Waiting Time](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1701.%20Average%20Waiting%20Time.md)
+28. [1598. Crawler Log Folder](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1598.%20Crawler%20Log%20Folder.md)
 
 ## Grind75 Solution

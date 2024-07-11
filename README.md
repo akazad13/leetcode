@@ -29,5 +29,6 @@
 26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md) :soon:
 27. [1701. Average Waiting Time](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1701.%20Average%20Waiting%20Time.md)
 28. [1598. Crawler Log Folder](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1598.%20Crawler%20Log%20Folder.md)
+29. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)
 
 ## Grind75 Solution

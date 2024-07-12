@@ -17,8 +17,8 @@
 14. [1382. Balance a Binary Search Tree](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1382.%20Balance%20a%20Binary%20Search%20Tree.md)
 15. [1791. Find Center of Star Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1791.%20Find%20Center%20of%20Star%20Graph.md)
 16. [2285. Maximum Total Importance of Roads](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2285.%20Maximum%20Total%20Importance%20of%20Roads.md)
-17. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md) :soon:
-18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) :soon:
+17. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md)
+18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md)
 19. [1550. Three Consecutive Odds](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1550.%20Three%20Consecutive%20Odds.md)
 20. [350. Intersection of Two Arrays II](https://github.com/akazad13/leetcode/blob/main/daily-challenges/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 21. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md)
@@ -26,9 +26,10 @@
 23. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)
 24. [2582. Pass the Pillow](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2582.%20Pass%20the%20Pillow.md)
 25. [1518. Water Bottles](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1518.%20Water%20Bottles.md)
-26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md) :soon:
+26. [1823. Find the Winner of the Circular Game](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md)
 27. [1701. Average Waiting Time](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1701.%20Average%20Waiting%20Time.md)
 28. [1598. Crawler Log Folder](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1598.%20Crawler%20Log%20Folder.md)
 29. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)
+30. [1717. Maximum Score From Removing Substrings]() :soon:
 
 ## Grind75 Solution

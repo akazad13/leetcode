@@ -20,7 +20,7 @@
 17. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md) :soon:
 18. [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) :soon:
 19. [1550. Three Consecutive Odds](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1550.%20Three%20Consecutive%20Odds.md) :soon:
-20. [350. Intersection of Two Arrays II](https://github.com/akazad13/leetcode/blob/main/daily-challenges/350.%20Intersection%20of%20Two%20Arrays%20II.md) :soon:
+20. [350. Intersection of Two Arrays II](https://github.com/akazad13/leetcode/blob/main/daily-challenges/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 21. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md)
 22. [2181. Merge Nodes in Between Zeros](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md)
 23. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md) :soon:

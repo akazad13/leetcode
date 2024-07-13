@@ -30,6 +30,7 @@
 27. [1701. Average Waiting Time](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1701.%20Average%20Waiting%20Time.md)
 28. [1598. Crawler Log Folder](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1598.%20Crawler%20Log%20Folder.md)
 29. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)
-30. [1717. Maximum Score From Removing Substrings]() :soon:
+30. [1717. Maximum Score From Removing Substrings](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md) :soon:
+31. [2751. Robot Collisions](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2751.%20Robot%20Collisions.md)
 
 ## Grind75 Solution

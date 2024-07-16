@@ -33,5 +33,7 @@
 30. [1717. Maximum Score From Removing Substrings](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md) :soon:
 31. [2751. Robot Collisions](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2751.%20Robot%20Collisions.md) :soon:
 32. [726. Number of Atoms](https://github.com/akazad13/leetcode/blob/main/daily-challenges/726.%20Number%20of%20Atoms.md) :soon:
+33. [2196. Create Binary Tree From Descriptions](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2196.%20Create%20Binary%20Tree%20From%20Descriptions.md) :soon:
+34. [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2096.%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another.md) :soon:
 
 ## Grind75 Solution

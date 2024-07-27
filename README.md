@@ -35,5 +35,8 @@
 32. [726. Number of Atoms](https://github.com/akazad13/leetcode/blob/main/daily-challenges/726.%20Number%20of%20Atoms.md) :soon:
 33. [2196. Create Binary Tree From Descriptions](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2196.%20Create%20Binary%20Tree%20From%20Descriptions.md) :soon:
 34. [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2096.%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another.md) :soon:
+35. [912. Sort an Array]()
+36. [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://github.com/akazad13/leetcode/blob/main/daily-challenges/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.md)
+37. [2976. Minimum Cost to Convert String I](https://github.com/akazad13/leetcode/blob/main/daily-challenges/2976.%20Minimum%20Cost%20to%20Convert%20String%20I.md)
 
 ## Grind75 Solution
